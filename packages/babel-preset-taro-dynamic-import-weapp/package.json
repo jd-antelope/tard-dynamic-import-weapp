@@ -1,0 +1,20 @@
+{
+  "name": "babel-preset-tard-dynamic-import-weapp",
+  "version": "0.0.1-alpha.1",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "package.json",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hawleyHuo",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10"
+  }
+}
